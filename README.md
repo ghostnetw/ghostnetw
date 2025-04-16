@@ -15,12 +15,14 @@ Hello, world! 👋 I'm a self-proclaimed geek 🤓, passionate about technology,
 - ☁️ Cloud: AWS, Azure
 - 💡 Others: Git, Docker, Kubernetes
 
-## 🚀 My Current Projects
-| **Project Name**     | **Progress**         |
-|-----------------------|----------------------|
-| 🌐 Portfolio Website  | 🟩🟩🟩🟩⬜ 80% Complete |
-| 🎮 Indie Game Dev     | 🟩🟩⬜⬜⬜ 40% Complete |
-| 📚 Open Source Library| 🟩🟩🟩🟩⬜ 75% Complete |
+
+| **Project Name**           | **Status**         |
+|-----------------------------|--------------------|
+| Portfolio Website 🌐        | ████████░░ 80%     |
+| Indie Game Development 🎮   | ███░░░░░░ 40%      |
+| Open Source Library 📚      | ██████░░░ 75%      |
+
+---
 
 ## 🎉 Fun Facts
 - I built my first PC at age 12 🛠️.
